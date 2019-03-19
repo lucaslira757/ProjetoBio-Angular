@@ -1,0 +1,8 @@
+body {
+    background-image: url(../assets/back.jpg);
+    background-color: grey ;
+   }
+h1 {
+    font-size: 2.5rem;
+    color: red;
+  }
